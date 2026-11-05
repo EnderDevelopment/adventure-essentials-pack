@@ -1,0 +1,11 @@
+{
+  "item.ender_essentials.dragon_greatsword": "Dragon Greatsword",
+  "item.ender_essentials.titan_cleaver": "Titan Cleaver",
+  "item.ender_essentials.obsidian_warhammer": "Obsidian Warhammer",
+  "item.ender_essentials.mythril_longsword": "Mythril Longsword",
+  "entity.ender_essentials.warrior_beast": "Warrior Beast",
+  "entity.ender_essentials.pet_wolf": "Pet Wolf",
+  "screen.ender_essentials.waypoint": "Waypoints",
+  "message.ender_essentials.waypoint_added": "Waypoint added",
+  "message.ender_essentials.waypoint_removed": "Waypoint removed"
+}

@@ -1,0 +1,16 @@
+{
+  "feature": "ender_essentials:pirate_cove",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 42
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR_WG"
+    }
+  ]
+}
